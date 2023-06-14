@@ -1,7 +1,7 @@
 import React from 'react';
 import IMG1 from '../../assets/todo.png';
-import IMG2 from '../../assets/todo.png';
-import IMG3 from '../../assets/todo.png';
+import IMG2 from '../../assets/studentportal.png';
+import IMG3 from '../../assets/windshield.png';
 
 import './portfolio.css';
 
@@ -10,31 +10,31 @@ const Portfolio = () => {
     {
       id: 1,
       title: 'To-Do-App',
-      img: IMG2,
+      img: IMG1,
       description: 'User friendly app to plan your day and manage tasks',
-      technologies: 'JavaScript | Webpack',
+      technologies: 'HTML | CSS | Javascript',
       link: 'https://mb-todo.herokuapp.com/',
       github: 'https://github.com/magedbebawy/ToDoList',
     },
     {
       id: 2,
-      title: 'FakeStore',
-      img: IMG3,
+      title: 'StudentPortal',
+      img: IMG2,
       description:
-        'FakeStore app that provides information about available products and their details',
-      technologies: 'React | Redux',
-      link: 'https://fakestore-metrics.netlify.app/',
-      github: 'https://github.com/magedbebawy/ToDoList',
+        'A studentPortal backend system for adding, deleteing, updating students and their grades',
+      technologies: 'Node | Mongo DB',
+      link: 'https://github.com/magedbebawy/studentPortal',
+      github: 'https://github.com/magedbebawy/studentPortal',
     },
     {
       id: 3,
-      title: 'Bookstore',
-      img: IMG1,
+      title: 'Windshield-Shop-App',
+      img: IMG3,
       description:
-        'BookStore app that allows users to store books and update progress',
-      technologies: 'React | Redux | Ruby on Rails',
-      link: 'https://melodic-boba-111583.netlify.app/',
-      github: 'https://github.com/magedbebawy/ToDoList',
+        'A Full-Stack app for a windshield replacement shop',
+      technologies: 'React | Node | Express | nodemailer',
+      link: 'https://windshield-react.herokuapp.com/',
+      github: 'https://github.com/magedbebawy',
     },
   ];
 
