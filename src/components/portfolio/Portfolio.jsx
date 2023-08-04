@@ -1,5 +1,5 @@
 import React from 'react';
-import IMG1 from '../../assets/todo.png';
+import IMG1 from '../../assets/rap.png';
 import IMG2 from '../../assets/studentportal.png';
 import IMG3 from '../../assets/windshield.png';
 
@@ -9,12 +9,12 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: 'To-Do-App',
+      title: 'TV mounting services website',
       img: IMG1,
-      description: 'User friendly app to plan your day and manage tasks',
-      technologies: 'HTML | CSS | Javascript',
-      link: 'https://mb-todo.herokuapp.com/',
-      github: 'https://github.com/magedbebawy/ToDoList',
+      description: 'User friendly website for TV mounting services',
+      technologies: 'React | CSS | Javascript || NodeJS || AWS',
+      link: 'https://www.requestapro.com',
+      github: 'https://github.com/magedbebawy',
     },
     {
       id: 2,
