@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c586ebe5.css",
+    "main.js": "/static/js/main.276f7cfb.js",
+    "static/media/windshield.png": "/static/media/windshield.bf3c429e4c1a2062386a.png",
+    "static/media/rap.png": "/static/media/rap.3944658b9ca2dd4fd83a.png",
+    "static/media/studentportal.png": "/static/media/studentportal.1008cd24bba38a0836b9.png",
+    "static/media/myimg.jpg": "/static/media/myimg.b944a7406de103821069.jpg",
+    "static/media/resume.pdf": "/static/media/resume.330100111154dee40276.pdf",
+    "index.html": "/index.html",
+    "main.c586ebe5.css.map": "/static/css/main.c586ebe5.css.map",
+    "main.276f7cfb.js.map": "/static/js/main.276f7cfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c586ebe5.css",
+    "static/js/main.276f7cfb.js"
+  ]
+}
