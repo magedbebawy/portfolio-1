@@ -22,7 +22,7 @@ const Intro = () => {
               <small>3 years</small>
             </article>
           </div>
-          <p>As a software engineer with 3 years of experience in JavaScript, Node.js, React.js, Vue.js, PostgreSQL, and AWS, my objective is to continue to develop my skills and expertise in these technologies while working on challenging and impactful projects. I am passionate about building scalable and maintainable web applications that provide a great user experience. </p>
+          <p>As a software engineer with 4 years of experience in JavaScript, Node.js, React.js, Vue.js, PostgreSQL, and AWS, my objective is to continue to develop my skills and expertise in these technologies while working on challenging and impactful projects. I am passionate about building scalable and maintainable web applications that provide a great user experience. </p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
